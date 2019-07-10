@@ -1,0 +1,12 @@
+*.project
+*.classpath
+.settings
+
+# IntelliJ
+*.iml
+.idea
+
+# arcconfig
+.arcconfig
+
+*.DS_Store
